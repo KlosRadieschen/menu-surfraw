@@ -1,7 +1,5 @@
-### Project Archived
-
 > [!NOTE]
-> I haven't used Arch, i3, or anything related to this project for several years now. As such, I've archived this repo. If you'd like to contribute to this project please support one of the forks, or create your own! ❤
+> As the original repo is no longer maintained, I will keep this here. I do not plan on modifying this script but I would be happy to accept pull requests
 
 ---
 
